@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB404\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A715EA0D-AC9B-466F-8F5B-532932ADA186}|..\\LAB408\\LAB408.vcxproj|C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB408\\LAB408.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06D1AD9-8A8E-4DBA-BD3D-992EB0E74BEA}|..\\LAB406\\LAB406.vcxproj|C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB406\\LAB406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30557922-61A3-4FE3-B188-04E2D8204715}|..\\LAB405\\LAB405.vcxproj|C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB405\\LAB405.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF365E72-71FA-4BB0-9249-CCBDBFC637BC}|LAB404.vcxproj|C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB404\\LAB404.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF365E72-71FA-4BB0-9249-CCBDBFC637BC}|LAB404.vcxproj|solutionrelative:LAB404.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB408.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB408\\LAB408.cpp",
+              "RelativeDocumentMoniker": "..\\LAB408\\LAB408.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB408\\LAB408.cpp",
+              "RelativeToolTip": "..\\LAB408\\LAB408.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T07:02:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB406.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB406\\LAB406.cpp",
+              "RelativeDocumentMoniker": "..\\LAB406\\LAB406.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB406\\LAB406.cpp",
+              "RelativeToolTip": "..\\LAB406\\LAB406.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T06:57:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB405.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB405\\LAB405.cpp",
+              "RelativeDocumentMoniker": "..\\LAB405\\LAB405.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB405\\LAB405.cpp",
+              "RelativeToolTip": "..\\LAB405\\LAB405.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T06:13:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB404.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB404\\LAB404.cpp",
+              "RelativeDocumentMoniker": "LAB404.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MIIA0106-2025-A\\LAB404\\LAB404.cpp",
+              "RelativeToolTip": "LAB404.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T06:02:10.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
