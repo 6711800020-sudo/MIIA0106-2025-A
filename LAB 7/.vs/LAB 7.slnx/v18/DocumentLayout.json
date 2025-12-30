@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9068EB-E01B-44C9-B86A-826766FFAC38}|..\\LAB 7-6\\LAB 7-6.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-6\\LAB 7-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862DB038-1BD6-4767-BB85-B143870B1461}|..\\LAB 7-5\\LAB 7-5.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-5\\LAB 7-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922EE17F-3929-43EE-B9AB-B179204978F0}|..\\LAB 7-4\\LAB 7-4.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-4\\LAB 7-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64135889-2B4D-4988-9ECB-4DE07910A0B2}|..\\LAB 7-3\\LAB 7-3.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-3\\LAB 7-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD088F-1643-4A09-8B3A-E390C537618C}|..\\LAB 7-2\\LAB 7-2.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-2\\LAB 7-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D36081-4E4A-4742-97AF-D6B85DCDF068}|LAB 7.vcxproj|C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7\\LAB 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D36081-4E4A-4742-97AF-D6B85DCDF068}|LAB 7.vcxproj|solutionrelative:LAB 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB 7-6.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-6\\LAB 7-6.cpp",
+              "RelativeDocumentMoniker": "..\\LAB 7-6\\LAB 7-6.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-6\\LAB 7-6.cpp",
+              "RelativeToolTip": "..\\LAB 7-6\\LAB 7-6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:35:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB 7-5.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-5\\LAB 7-5.cpp",
+              "RelativeDocumentMoniker": "..\\LAB 7-5\\LAB 7-5.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-5\\LAB 7-5.cpp",
+              "RelativeToolTip": "..\\LAB 7-5\\LAB 7-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:34:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB 7-4.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-4\\LAB 7-4.cpp",
+              "RelativeDocumentMoniker": "..\\LAB 7-4\\LAB 7-4.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-4\\LAB 7-4.cpp",
+              "RelativeToolTip": "..\\LAB 7-4\\LAB 7-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:34:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB 7-3.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-3\\LAB 7-3.cpp",
+              "RelativeDocumentMoniker": "..\\LAB 7-3\\LAB 7-3.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-3\\LAB 7-3.cpp",
+              "RelativeToolTip": "..\\LAB 7-3\\LAB 7-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:34:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB 7-2.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-2\\LAB 7-2.cpp",
+              "RelativeDocumentMoniker": "..\\LAB 7-2\\LAB 7-2.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7-2\\LAB 7-2.cpp",
+              "RelativeToolTip": "..\\LAB 7-2\\LAB 7-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:34:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB 7.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7\\LAB 7.cpp",
+              "RelativeDocumentMoniker": "LAB 7.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\MIIA0106-2025-A\\LAB 7\\LAB 7.cpp",
+              "RelativeToolTip": "LAB 7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:33:31.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
